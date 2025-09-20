@@ -22,7 +22,4 @@ It provides insights into:
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/dharmanayuvaraju/Sandip-university-dashboard-powerbi/blob/main/Dashboard%20image.png)
 
-## 🚀 How to Use
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/university-dashboard-powerbi.git
+
